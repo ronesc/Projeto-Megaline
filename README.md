@@ -1,3 +1,4 @@
+# 🇧🇷
 # 📶 Projeto Megaline – Análise dos Planos Surf e Ultimate
 
 Neste projeto, atuei como analista da Megaline, uma operadora de telecomunicações que oferece dois planos pré-pagos: Surf e Ultimate. A missão foi entender o comportamento dos clientes e identificar qual dos planos gera mais receita, ajudando o time comercial a ajustar o orçamento de marketing.
@@ -15,7 +16,7 @@ Usuários da região NY-NJ gastam mais que usuários de outras regiões?
 Para isso, formulei hipóteses nula e alternativa, selecionei os testes adequados e interpretei os resultados para tirar conclusões claras.
 
 No geral, foi um projeto completo, que reforçou a importância da limpeza de dados, da análise exploratória e do uso de métodos estatísticos para apoiar decisões de negócio. Documentei todo o processo no Jupyter Notebook, combinando código, visualizações e explicações ao longo do caminho.
-
+# 🇺🇸
 # 📡 Megaline Project – Revenue Analysis for Mobile Plans
 
 In this project, I worked as a data analyst for Megaline, a telecom company that offers two prepaid mobile plans: Surf and Ultimate. The commercial team wanted to understand which plan generates more revenue so they could adjust their advertising budget accordingly.
